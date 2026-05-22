@@ -1,0 +1,11 @@
+ipykernel
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+Pillow
+streamlit
