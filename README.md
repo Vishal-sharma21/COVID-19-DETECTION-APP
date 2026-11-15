@@ -4,10 +4,9 @@ This project is a COVID-19 Detection Web Application developed using Python, Str
 
 
 Multiple deep learning approaches were implemented and compared:
-
-Basic CNN Model
-Transfer Learning using VGG16
-Data Augmentation + VGG16
+1 Basic CNN Model
+2 Transfer Learning using VGG16
+3 Data Augmentation + VGG16
 
 The best-performing model was selected and integrated into the Streamlit application for real-time predictions.
 
